@@ -179,11 +179,7 @@ https://adityabhatt19058568031-stats.medium.com/understanding-specificity-and-se
 
 https://meenakshi-bhtt.medium.com/activation-function-at-one-shot-1e5f7f034df
 
-PYTHON PROJECTS-
 
-1.ENGLISH THESAURUS, VOLCANO MAP USING FOLIUM, WEB APP (USING JUSPY) TO HOST GRAPHS FOR REVIEW ANALYSIS,FACIAL EXPRESSION DETECTION
-GIT HUB LINK-
-https://github.com/aditya699/PYTHON_PROJECTS
 
   
 ## Achievements
