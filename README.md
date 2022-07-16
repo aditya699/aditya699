@@ -7,7 +7,9 @@
 I am Aditya!!!!
 I am data lover and data driven person. I have done my graduation in the field of statistics from Delhi University. I have worked in the field of data science , data analytics ,machine learning and business intelligence.
 I have a working experience of 6 months in two companies-
+
  1.Junior data scientist at INEURON AI
+ 
 2021(September)-2021(December)
 roles and responsibilities-
 1.running SQL query to find insights about sales and design marketing plans for action
@@ -15,7 +17,9 @@ roles and responsibilities-
 3.mentor for data analysis students and machine learning participants.
 4.made statistical presentations using python, r, bi tools and presented to clients
 
+
 2.Data science intern at Analytics Vidhya
+
 2022(January)-2022(March)
 roles and responsibilities-
 1.worked on a project named “lead scoring” and developed a machine learning solution to find the best leads for the company and helped sales and marketing team increase sales by 8 -12 %.
