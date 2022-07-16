@@ -44,18 +44,8 @@ https://www.youtube.com/channel/UCGKE__9Wmi0udQD5904NvCA
   
 ## SKILLS
 
-- MACHINE LEARNING
-- STATISTICS
-- DATA ANALYST (TRADIONAL)
-- TABLEAU![image](https://user-images.githubusercontent.com/64576351/179344510-e3b45e6c-0388-4810-9ffb-cca1825b4332.png)
+![image](https://user-images.githubusercontent.com/64576351/179344510-e3b45e6c-0388-4810-9ffb-cca1825b4332.png)
 
-- R
-- SURVEY SAMPLING
-- DEEP LEARNING (UPTIL CNN)
-- PYTHON
-- SQL
--POWER BI
--C
 
 ## EDUCATION
 
@@ -64,9 +54,6 @@ BSC(H) STATISTICS BATCH- JUNE 2019
 RAM LAL ANAND COLLEGE DELHI UNIVERSITY
 
 GRADE POINT IN 2ND YEAR-9.46
-
-CURRENTLY PERSUING 3RD YEAR
-
 
 
 BLOGS-
@@ -80,8 +67,6 @@ https://adityabhatt19058568031-stats.medium.com/understanding-specificity-and-se
 https://meenakshi-bhtt.medium.com/activation-function-at-one-shot-1e5f7f034df
 
 
-
-  
 ## Achievements
 
 1.HACKEREARTH SQL GOLD BATCH 
