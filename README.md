@@ -1,90 +1,57 @@
+# 👋 Hi, I'm Aditya Bhatt
 
-# Hi, I'm Aditya I! 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aditya-bhatt-92915a1b2/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/channel/UCGKE__9Wmi0udQD5904NvCA)
+[![Blog](https://img.shields.io/badge/Blog-Visit-green)](https://aiwithaditya.odoo.com/blog)
 
-  
 ## 🚀 About Me
+I'm a Supply Chain Analyst at McCormick, passionate about leveraging AI and data science to solve complex business problems. With a background in Statistics from Delhi University and a PG Diploma in Software Engineering for Data Science from IIIT Hyderabad, I bring a unique blend of analytical and technical skills to the table.
 
-I am Aditya!!!!
-I am data lover and data driven person. I have done my graduation in the field of statistics from Delhi University. I have worked in the field of data science , data analytics ,machine learning and business intelligence.
-I have a working experience of 6 months in two companies-
+## 🏢 Professional Experience
+- **Supply Chain Analyst** at McCormick (Apr 2024 - Present)
+  - Leading AI/ML initiatives in supply chain optimization
+  - Developing GenAI solutions for document processing and analysis
+  - Building ETL processes on Azure Synapse with Gen 2 DL
 
- 1.Junior data scientist at INEURON AI
- 
-2021(September)-2021(December)
-roles and responsibilities-
-1.running SQL query to find insights about sales and design marketing plans for action
-2.making dashboards over tableau and power bi to visualize companies profit and students performance 
-3.mentor for data analysis students and machine learning participants.
-4.made statistical presentations using python, r, bi tools and presented to clients
+- **Business Analyst** at Neenopal (Jul 2022 - Apr 2024)
+  - Led data analytics projects for logistics and SaaS clients
+  - Developed Power BI dashboards and automated workflows
+  - Created AI-driven solutions for HR and marketing analytics
 
+## 🛠️ Technical Stack
+- **Cloud & Data Engineering**: Azure (Synapse, Databricks, ADF), AWS SageMaker
+- **AI/ML**: OpenAI, LangChain, RAG, Azure OpenAI, Vertex AI, PyTorch, TensorFlow
+- **BI & Visualization**: Power BI, Tableau, Python visualization libraries
+- **Programming**: Python, R, SQL, PySpark
+- **Databases**: Azure SQL, MySQL, PostgreSQL, MongoDB, Vector DBs
 
-2.Data science intern at Analytics Vidhya
+## 🏆 Recent Achievements
+- Top 5 Finalist in Google Gemini Hackathon
+- Employee of the Quarter (Q2 2023) & Special Mention (Q4 2023)
+- Created SAIBABA-GPT chatbot with 7.2K requests in first week
+- Microsoft Certified: Azure Data Scientist Associate (DP-100)
+- Microsoft Certified: Azure Data Engineer Associate (DP-203)
 
-2022(January)-2022(March)
-roles and responsibilities-
-1.worked on a project named “lead scoring” and developed a machine learning solution to find the best leads for the company and helped sales and marketing team increase sales by 8 -12 %.
-2.created and developed python module for the students as a part of Analytics Vidhya curriculum.
-Now I am working at NeenOpal as a business analyst .
+## 🎓 Education
+- PG Diploma in Software Engineering for Data Science (IIIT Hyderabad)
+- BSc Statistics (Hons) from Delhi University (CGPA: 9.14/10)
 
+## 🚀 Featured Projects
+- [AUTO-DASH](https://www.linkedin.com/feed/update/urn:li:activity:7232349693526089728/): Open-source initiative for instant dashboard creation
+- [Data Resources Chatbot](https://data-carrer-guide.onrender.com/): AI-powered learning resource hub
+- [Marketing Agent for Hotels](https://github.com/aditya699/Marketing-Agent-Hotel-): GenAI-powered SaaS solution
 
-I am currently working as a business analyst at NeenOpal
+## 📝 Latest Blog Posts
+- [Activation Functions](https://meenakshi-bhtt.medium.com/activation-function-at-one-shot-1e5f7f034df)
+- [Understanding Specificity and Sensitivity](https://adityabhatt19058568031-stats.medium.com/understanding-specificity-and-sensitivity-78d867838831)
+- [Spatial Analytics in Tableau](https://www.neenopal.com/how-to-leverage-spatial-analytics-for-data-driven-insights-in-tableau.html)
+- [Power BI Tips and Tricks](https://www.neenopal.com/power-bi-tips-and-tricks.html)
 
-  
-## Connect with me
+## 📫 Get in Touch
+- LinkedIn: [Aditya Bhatt](https://www.linkedin.com/in/aditya-bhatt-92915a1b2/)
+- Email: adityabhatt19058568031.stats@rla.du.ac.in
+- YouTube: [Your Data Scientist](https://www.youtube.com/channel/UCGKE__9Wmi0udQD5904NvCA)
+- Blog: [AI with Aditya](https://aiwithaditya.odoo.com/blog)
 
-https://www.linkedin.com/in/aditya-bhatt-92915a1b2/
-
-adityabhatt19058568031.stats@rla.du.ac.in
-
-https://www.youtube.com/channel/UCGKE__9Wmi0udQD5904NvCA
-
-
-
-
-  
-## SKILLS
-
-![image](https://user-images.githubusercontent.com/64576351/179344510-e3b45e6c-0388-4810-9ffb-cca1825b4332.png)
-
-
-## EDUCATION
-
-BSC(H) STATISTICS BATCH- JUNE 2019
-
-RAM LAL ANAND COLLEGE DELHI UNIVERSITY
-
-GRADE POINT IN 2ND YEAR-9.46
-
-
-BLOGS-
-
-1.TOPIC- SENSITIVITY AND SPECIFICITY
-
-https://adityabhatt19058568031-stats.medium.com/understanding-specificity-and-sensitivity-78d867838831
-
-2.TOPIC-ACTIVATION FUNCTION
-
-https://meenakshi-bhtt.medium.com/activation-function-at-one-shot-1e5f7f034df
-
-
-## Achievements
-
-1.HACKEREARTH SQL GOLD BATCH 
-
-2.HACKEREARTH PYTHON GOLD BATCH
-
-3.WINNER AT IDEA PRESENTATION COMPETITION AT RAMANUJAN COLLEGE DU TOPIC-POVERTY ERADICATION WITH MACHINE LEARNING
-
-4.DATA CORDINATOR AT PLACEMENT CELL OF RAM LAL ANAND COLLEGE
-
-5.MADE FIVE SUBMISSIONS IN KAGGLE COMPETITIONS RANKED IN TOP 40% IN 3nd COMPETITION AND RANKED TOP 45% IN 2nd
- COMPETITION. LINK- https://www.kaggle.com/adityabhatt
- 
-6.3rd PRICE AT DEBATE COMPETITION AT SRI AUROBINDO COLLEGE DU
-
-7.ATTENDED FACULITY DEVELOPMENT PROGRAMME BY GOVERNMENT OF INDIA (CO HOISTED BY IIT) ON “Deep Learning & Applications (Parallel Architectures)”.LINK-https://drive.google.com/drive/folders/1nWvw0j1jOp9XS0V0-WgWfcABKEgsD8v3?usp=sharing
-
-
-
-
-
+---
+*"Data is the new oil, but like oil, it's valuable only when refined."*
